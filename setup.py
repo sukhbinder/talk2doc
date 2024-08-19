@@ -20,6 +20,7 @@ setup(
         'pypdf',
         'langchain',
         'langchain-core',
-        'ollama'
+        'ollama',
+        'tiktoken',
     ],
 )
